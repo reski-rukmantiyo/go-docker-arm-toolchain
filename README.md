@@ -1,5 +1,5 @@
 # README
-This docker image is used to compile golang apps with CGO_ENABLED
+This docker image is used to compile golang apps with CGO_ENABLED=1
 
 # Build local Golang image
 1. Clone this repository
